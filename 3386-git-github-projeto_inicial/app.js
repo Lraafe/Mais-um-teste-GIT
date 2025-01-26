@@ -5,3 +5,7 @@ if(corno == true){
 }else{
     alert("Parabens voce não é um otario =)");
 }
+
+if(corno == false){
+    prompt("Tem certeza, digita ai");    
+}
