@@ -8,4 +8,6 @@ if(corno == true){
 
 if(corno == false){
     prompt("Tem certeza, digita ai");    
+}else{
+    prompt("Em um nivel de 1 a 10 qual o tamanho do teu chifre");
 }
