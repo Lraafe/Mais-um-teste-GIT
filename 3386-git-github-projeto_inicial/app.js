@@ -22,3 +22,10 @@ muie = prompt("Em um numero de 1 a 5 quanto sue muié é redical") > 3 ? alert("
 //Realize um commit para registrar a resolução do conflito.
 //Verifique quais arquivos foram adicionados
 //Sincronize o repositório local com o repositório remoto no GitHub.
+
+//Acesse todos os commits realizados
+//Modifique o último commit
+//Reverta mudanças no repositório local
+//Apague um ou mais commits
+//Sincronize as modificações com o repositório remoto
+//Analise as mensagens de commits realizados e faça as alterações de acordo com as boas práticas
